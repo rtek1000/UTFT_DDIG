@@ -21,3 +21,5 @@ Test: [UTFT_DDIG speed test example (Arduino Mega + SSD1963 with 7 inch TFT) - Y
 UTFT: http://www.rinkydinkelectronics.com/library.php?id=51
 
 UTFT_DLB: https://sites.google.com/site/dlbarduino/downloads
+
+Ref.: https://forum.arduino.cc/t/utft_ddig-display-seven-segment-numbers-faster-than-using-character-font/489801
