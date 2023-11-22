@@ -26,6 +26,10 @@ Ref.: https://forum.arduino.cc/t/utft_ddig-display-seven-segment-numbers-faster-
 
 ----
 
+Note: As this library only uses the draw line function ("drawL()"), this code can be adapted to operate with other libraries that can draw a line.
+
+----
+
 This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
   License as published by the Free Software Foundation; either
