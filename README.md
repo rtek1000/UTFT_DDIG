@@ -7,6 +7,8 @@ So both libraries are needed.
 
 UTFT DDIG was made to improve the display response time of seven-segment numbers, the accepted value is between 0-9 and 10-15 (A-F)
 
+- Note: Version adapted to work with the TFT_eSPI library [TFT_DDIG](https://github.com/rtek1000/TFT_DDIG)
+
 You can control:
 
 - Position
